@@ -48,8 +48,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumArtistManager.cs" />
     <Compile Include="AlbumManager.cs" />
     <Compile Include="FileExplorer.cs" />
+    <Compile Include="IAlbumArtistManager.cs" />
     <Compile Include="IAlbumManager.cs" />
     <Compile Include="IFileExplorer.cs" />
     <Compile Include="IMusicManagerService.cs" />
